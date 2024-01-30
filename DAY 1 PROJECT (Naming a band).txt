@@ -1,0 +1,7 @@
+#Header
+print("Welcome to the Band Name Generator")
+#taking input from the user, \n so the user can write on the next line
+city = input("What's name of the city you grew up in?\n")
+name = input("What's your pet's name?\n")
+#printing output from the input, while adding extra spaces..
+print("Your band name could be" + " " + city + " " + name)
